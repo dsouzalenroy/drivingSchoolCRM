@@ -1,0 +1,68 @@
+/* .selectLessonTypeHeading {
+  position: absolute;
+  width: 531px;
+  height: 72px;
+  left: 720px;
+  top: 116px;
+
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 72px;
+  line-height: 104.29%;
+
+
+  letter-spacing: -0.025em;
+
+  color: #000000;
+
+  margin: 0px;
+}
+
+.oneHourLessonType {
+  position: absolute;
+  width: 244px;
+  height: 268px;
+  left: 1px;
+  top: -120px;
+  padding: 5px;
+}
+
+.twoHourLessonType {
+  position: absolute;
+  width: 244px;
+  height: 268px;
+  left: 325px;
+  top: -120px;
+  padding: 5px;
+}
+
+.lessonSelected {
+  border: 3px solid #0065ae;
+}
+
+.PackagetrainerDetails {
+  position: absolute;
+  left: 3px;
+  top: 250px;
+} */
+
+.SelectLessonTypeComponents {
+  padding-top: 0%;
+}
+
+.oneHourLessonType {
+  padding-right: 5%;
+  width: 40%;
+  height: 40%;
+}
+
+.twoHourLessonType {
+  padding-right: 5%;
+  width: 40%;
+  height: 40%;
+}
+
+.lessonSelected {
+  border: 3px solid #0065ae;
+}

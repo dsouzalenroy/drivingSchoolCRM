@@ -1,0 +1,28 @@
+.SingleTimeDropDown {
+  display: flex;
+  align-items: center;
+  /* margin-left: 128px; */
+}
+
+.singleTimeOptions {
+  /* height: 113px; */
+  height: 56.59px;
+  width: 72%;
+  /* background-colo  /* background-color: #ececec; */
+  display: inline-block;
+  /* margin-left: 15px; */
+  /* margin-right: 125px; */
+  border: none;
+}
+
+img {
+  display: inline-block;
+}
+
+select {
+  background-color: #ececec;
+  font-size: large;
+  padding-left: 5px;
+  margin-left: 10px;
+  padding-bottom: 5px;
+}

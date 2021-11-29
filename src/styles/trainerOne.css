@@ -1,0 +1,161 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Oswald:wght@300&display=swap");
+
+.trainerProfile {
+  height: 212px !important;
+  /* width: 527px; */
+  width: auto;
+  table-layout: fixed;
+  overflow: hidden;
+}
+
+.trainerImage {
+  width: 203px;
+  overflow: hidden;
+  border: none;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.trainerDetails {
+  height: 212px;
+  padding-top: 0px !important;
+  margin-left: 10px;
+  border: none;
+}
+
+h4 {
+  color: #0065ae;
+}
+
+.trainerDescription {
+  padding-left: 0px;
+  margin-left: 30px;
+  font-size: small;
+}
+
+.selecTrainerButton {
+  background-color: #ffc700;
+  border: none;
+  color: black;
+  /* padding: 15px 32px; */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 160px;
+  height: 45px;
+  margin-left: 30px;
+}
+
+.selectedTrainerButton {
+  background-color: #e8e8e8;
+  border: none;
+  color: black;
+  /* padding: 15px 32px; */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 160px;
+  height: 45px;
+  margin-left: 30px;
+}
+
+.trainerName {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 114.29%;
+
+  letter-spacing: -0.025em;
+
+  color: #000000;
+}
+
+.trainerTitle {
+  letter-spacing: -0.025em;
+  font-size: 100%;
+  width: 100%;
+
+  color: #0065ae;
+}
+
+h2 {
+  margin: 0px;
+  padding-left: 30px;
+}
+
+h4 {
+  margin: 0px;
+  padding-left: 30px;
+}
+
+.trainerTwoName {
+  /* width: 240px;
+  height: 41px;
+  left: 960px;
+  top: 564px; */
+
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 114.29%;
+  /* or 41px */
+
+  letter-spacing: -0.025em;
+}
+
+/* .trainerProfile {
+  width: 500px;
+  height: 100px;
+  table-layout: fixed;
+  border: none;
+}
+
+.trainerImage {
+  width: 40%;
+  overflow: hidden;
+  border: none;
+}
+
+.trainerDetails {
+  padding-left: 30px;
+  text-align: left;
+  border: none;
+}
+
+.trainerDetails > p {
+  text-align: left;
+}
+
+.selecTrainerButton {
+  background-color: #ffc700;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+h2 > h4 > {
+  padding-left: 0px;
+}
+
+.trainerDescription {
+  padding-left: 0px;
+  font-size: small;
+}
+
+h4 {
+  color: #0065ae;
+}
+
+.profilePic {
+  height: 212px;
+  width: 203px;
+} */

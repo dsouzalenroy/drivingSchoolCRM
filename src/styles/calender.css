@@ -1,0 +1,27 @@
+.Calender {
+  display: flex;
+  align-items: center;
+  /* margin-left: 128px; */
+  width: 100%;
+}
+
+.datePickerComponent {
+  padding-left: 30px;
+  height: 56.59px;
+  width: 80%;
+  background-color: #ececec;
+  display: inline-block;
+  border: none;
+  font-size: large;
+  padding-left: 10px;
+  margin-left: 10px;
+}
+
+img {
+  display: inline-block;
+}
+
+.calenderSymbol {
+  width: 53.59px;
+  height: 56.59px;
+}

@@ -1,0 +1,139 @@
+.left {
+  /* background: url(./image/main-bg.png); */
+  background: url(../images/ThinkSafeDriveSafe.png);
+
+  padding: 30px;
+  vertical-align: text-bottom;
+  padding-top: 389px;
+  background-repeat: no-repeat;
+  height: 100%;
+}
+
+.imageTitle {
+  font-family: Oswald;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 72px;
+  line-height: 114.29%;
+
+  letter-spacing: -0.035em;
+  color: #ffffff;
+}
+
+.imageDescription {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 136.79%;
+  padding-top: 90px;
+
+  letter-spacing: -0.035em;
+
+  color: #ffffff;
+}
+
+h1 {
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 72px;
+  letter-spacing: -0.025em;
+  color: #000000;
+  width: 100%;
+}
+
+p {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.selectAutomatically {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 114.29%;
+  letter-spacing: -0.025em;
+  text-decoration-line: underline;
+  color: #000000;
+  padding-top: 5%;
+}
+
+.serviceType {
+  /* display: inline-block; */
+  padding-top: 20%;
+}
+
+.serviceOptions {
+  float: left;
+}
+
+.changeService {
+  float: right;
+  text-decoration: underline;
+}
+
+.singleLessons {
+  color: #0065ae;
+}
+
+.buttonText {
+  left: 1500px;
+  top: 865px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 114.29%;
+  letter-spacing: -0.025em;
+  /* display: inline-block;
+  text-align: center; */
+  float: right;
+}
+
+.nextbutton {
+  background: white;
+  border: none;
+}
+
+.backButtonText {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 114.29%;
+  letter-spacing: -0.025em;
+  /* display: inline-block;
+  text-align: center; */
+  float: left;
+}
+
+.backButton {
+  background: white;
+  border: none;
+}
+
+.row {
+  padding: 5%;
+  height: 100%;
+}
+
+.right {
+  padding-left: 10%;
+  /* border: 1px solid black; */
+  height: 70%;
+}
+
+.locationDropdown {
+  padding-top: 10%;
+}
+
+.navButtons {
+  padding-top: 35%;
+  /* top: 80%; */
+  /* border: 1px solid black; */
+  height: 30%;
+}

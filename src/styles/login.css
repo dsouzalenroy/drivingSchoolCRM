@@ -1,0 +1,18 @@
+.loginSubmit {
+  position: absolute;
+  top: 480px;
+  left: 740px;
+}
+
+.signUpOptions {
+  position: absolute;
+  top: 500px;
+  left: 720px;
+  font-size: small;
+}
+
+.signUpIcons {
+  position: absolute;
+  top: 510px;
+  left: 740px;
+}

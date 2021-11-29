@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Oswald:wght@300&display=swap");
+
+h1 {
+  font-family: "Oswald", sans-serif;
+
+  width: 373px;
+  height: 82px;
+  left: 720px;
+  top: 126px;
+
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 72px;
+  line-height: 114.29%;
+  /* or 82px */
+
+  letter-spacing: -0.025em;
+}
+
+p {
+  font-family: "Inter", sans-serif;
+}

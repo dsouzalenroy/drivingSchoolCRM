@@ -1,0 +1,55 @@
+/* .chooseSingleLessonDateAndTimeHeading {
+  position: absolute;
+  width: 467px;
+  height: 82px;
+  left: 720px;
+  top: 126px;
+
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 72px;
+  line-height: 114.29%;
+
+  letter-spacing: -0.025em;
+
+  color: #000000;
+} */
+
+/* .calenderDropDown {
+  position: absolute;
+  width: 710px;
+  height: 113px;
+  left: 590px;
+  top: 333px;
+}
+
+.SingleTimeDropDownComponent {
+  position: absolute;
+  width: 730px;
+  height: 113px;
+  left: 590px;
+  top: 433px;
+}
+
+.delayNotice {
+  position: absolute;
+  width: 715px;
+  height: 46px;
+  left: 719px;
+  top: 517px;
+
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 162.29%;
+
+  letter-spacing: -0.035em;
+
+  color: #000000;
+} */
+
+.singleTimeAndDateComponets {
+  padding-top: 30%;
+}

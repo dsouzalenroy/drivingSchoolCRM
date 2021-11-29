@@ -1,0 +1,29 @@
+.MiniSingleTimeDropDown {
+  display: flex;
+  align-items: center;
+  padding-left: 40 px;
+}
+
+.MiniSingleTimeOptions {
+  height: 56.59px;
+  width: 100%;
+  /* background-color: #ececec; */
+  display: inline-block;
+  /* margin-left: 15px; */
+  /* margin-right: 125px; */
+  border: none;
+  font-size: large;
+}
+
+select {
+  background-color: #ececec;
+  font-size: large;
+  /* padding-left: 30px;
+  margin-left: 10px; */
+}
+
+.ClockSymbol {
+  display: inline-block;
+  width: 53.59px;
+  height: 56.59px;
+}

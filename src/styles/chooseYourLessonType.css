@@ -1,0 +1,30 @@
+/* .lessonTypes {
+  width: 375px;
+  height: 113px;
+
+  border: none;
+}
+
+.lessonTypeButton {
+  border: none;
+}
+
+.lessonTypeSelected {
+  border: 5px solid #0065ae;
+} */
+
+.chooseYourLessonTypeComponents {
+  padding-top: 20%;
+}
+
+.lessonTypes {
+  border: none;
+}
+
+.lessonTypeButton {
+  border: none;
+}
+
+.lessonTypeSelected {
+  border: 5px solid #0065ae;
+}

@@ -1,0 +1,151 @@
+/* 
+.heading {
+  position: absolute;
+  width: 467px;
+  height: 82px;
+  left: 710px;
+  top: 126px;
+
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 72px;
+  line-height: 114.29%;
+
+  letter-spacing: -0.025em;
+
+  color: #000000;
+}
+
+.chooseSlots {
+  position: absolute;
+  width: 278px;
+  height: 39px;
+  left: 687px;
+  top: 300px;
+
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 162.29%;
+
+  letter-spacing: -0.035em;
+
+  color: #000000;
+}
+
+.chooseSlotDescription {
+  position: absolute;
+  width: 415px;
+  height: 46px;
+  left: 719px;
+  top: 330px;
+
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 162.29%;
+
+
+  letter-spacing: -0.035em;
+
+  color: #000000;
+}
+
+.slotOne {
+  position: absolute;
+  width: 34px;
+  height: 23px;
+  left: 720px;
+  top: 405px;
+
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 162.29%;
+
+  letter-spacing: -0.035em;
+
+  color: #000000;
+}
+
+.slotTwo {
+  position: absolute;
+  width: 36px;
+  height: 23px;
+  left: 720px;
+  top: 532px;
+
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 162.29%;
+
+  letter-spacing: -0.035em;
+
+  color: #000000;
+}
+
+.slotThree {
+  position: absolute;
+  width: 37px;
+  height: 23px;
+  left: 720px;
+  top: 659px;
+
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 162.29%;
+  letter-spacing: -0.035em;
+  color: #000000;
+}
+
+.miniDateAndTimeSlotOne {
+  position: absolute;
+  left: 720px;
+  top: 450px;
+}
+
+.miniDateAndTimeSlotTwo {
+  position: absolute;
+  left: 720px;
+  top: 575px;
+}
+
+.miniDateAndTimeSlotThree {
+  position: absolute;
+  left: 720px;
+  top: 700px;
+} */
+
+.chooseSlots {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 162.29%;
+
+  letter-spacing: -0.035em;
+
+  color: #000000;
+  padding: 0;
+}
+
+.chooseSlotDescription {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 162.29%;
+  /* or 23px */
+
+  letter-spacing: -0.035em;
+
+  color: #000000;
+}

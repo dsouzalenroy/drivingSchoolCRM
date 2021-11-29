@@ -1,0 +1,69 @@
+.paymentHeader {
+  position: absolute;
+  width: 493px;
+  height: 164px;
+}
+
+.paymentHeaderTwo {
+  position: absolute;
+  width: 493px;
+  height: 164px;
+  top: 250px;
+  left: 700px;
+  font-family: Oswald;
+  font-style: normal;
+}
+
+.cardHoldersName {
+  position: absolute;
+  width: 500px;
+  top: 350px;
+  left: 700px;
+  font-family: Oswald;
+  font-style: normal;
+}
+
+.cardNumber {
+  position: absolute;
+  width: 500px;
+  top: 400px;
+  left: 700px;
+  font-family: Oswald;
+  font-style: normal;
+}
+
+.cardType {
+  position: absolute;
+  width: 500px;
+  top: 450px;
+  left: 700px;
+  font-family: Oswald;
+  font-style: normal;
+}
+
+.expiryDate {
+  position: absolute;
+  width: 500px;
+  top: 500px;
+  left: 700px;
+  font-family: Oswald;
+  font-style: normal;
+}
+
+.cvv {
+  position: absolute;
+  width: 500px;
+  top: 550px;
+  left: 700px;
+  font-family: Oswald;
+  font-style: normal;
+}
+
+.submit {
+  position: absolute;
+  width: 500px;
+  top: 610px;
+  left: 700px;
+  font-family: Oswald;
+  font-style: normal;
+}

@@ -1,0 +1,12 @@
+.miniCalenderTime {
+  width: 100%;
+}
+
+.miniCalender {
+  width: 50%;
+  float: left;
+}
+.miniSingleTimeDropDown {
+  width: 50%;
+  float: right;
+}
